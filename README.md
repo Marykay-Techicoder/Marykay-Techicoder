@@ -1,4 +1,3 @@
-# 💫 About Me:
 My name is Mary Akinyode. Software Engineer and Full-Stack Developer with practical experience building web applications using Laravel, PHP, React, Next.js, TypeScript, and MySQL. Experienced in developing responsive interfaces, backend systems, REST APIs, and database-driven applications, including platforms used by 500+ active users. Experienced in collaborating with development teams, debugging applications, and building solutions for real-world business and user needs.<br>🌱 I’m currently learning more backend languages<br><br>💬 About Me: I am goal driven and always ready to make impact in the tech space<br>⚡ Fun fact: I love singing, Listening to stories and playing volley ball
 
 
