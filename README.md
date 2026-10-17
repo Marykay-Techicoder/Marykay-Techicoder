@@ -62,18 +62,6 @@ I'm open to software engineering opportunities, freelance projects, and collabor
 ![](https://streak-stats.demolab.com/?user=Marykay-Techicoder&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Marykay-Techicoder&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Statistics
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=Marykay-Techicoder&show_icons=true&hide_border=true&theme=transparent&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Marykay-Techicoder\&show_icons=true\&hide_border=true\&theme=transparent\&rank_icon=github)" alt="Mary Akinyode's GitHub statistics" />
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Marykay-Techicoder&layout=compact&hide_border=true&theme=transparent&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Marykay-Techicoder\&layout=compact\&hide_border=true\&theme=transparent\&langs_count=8)" alt="Most used programming languages in public repositories" />
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=Marykay-Techicoder&hide_border=true&theme=transparent](https://streak-stats.demolab.com?user=Marykay-Techicoder\&hide_border=true\&theme=transparent)" alt="GitHub contribution streak" />
 \</p>
 
 ## 🏆 GitHub Trophies
